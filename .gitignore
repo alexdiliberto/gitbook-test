@@ -1,0 +1,5 @@
+# GitBook
+_book/
+*.pdf
+*.mobi
+*.epub
